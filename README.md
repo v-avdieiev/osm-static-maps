@@ -4,6 +4,10 @@ Openstreetmap static maps is a nodejs lib, CLI and server open source inspired o
 
 Here you have a [dynamic version](https://v-avdieiev.bcns.ai/osm-mariupol) of the demo, for testing purposes.
 
+## Connection with a developer
+
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://telegram.me/developer_support_bot)
+
 ## How to use
 
 ### 1. CLI
