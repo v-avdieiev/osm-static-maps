@@ -1783,10 +1783,10 @@ map-obj@^1.0.0, map-obj@^1.0.1:
   resolved "https://registry.yarnpkg.com/map-obj/-/map-obj-1.0.1.tgz#d933ceb9205d82bdcf4886f6742bdc2b4dea146d"
   integrity sha512-7N/q3lyZ+LVCp7PzuxrJr4KMbBE2hW7BT7YNia330OFxIf4d3r5zVpicP2650l7CPN6RM9zOJRl3NGpqSiw3Eg==
 
-mapbox-gl-leaflet@0.0.14:
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/mapbox-gl-leaflet/-/mapbox-gl-leaflet-0.0.14.tgz#2494845e1b504aa4f448e481336dae7bc419ab57"
-  integrity sha512-TIHe8OwdYoKk04B+aVJ1fpa3wArznKJq3ugYhfDwtZIM10gqbcGOJ7vMIg27Rm+ZUVEcU/oqI//DwCeiDsPyRg==
+mapbox-gl-leaflet@0.0.16:
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/mapbox-gl-leaflet/-/mapbox-gl-leaflet-0.0.16.tgz#25208897bbffbe8e2c1f15d3710f253c19a0a533"
+  integrity sha512-w4bpZrKHOWDZqUzhDOjIPL6Pc4tD10TVR/z8Iwp3hlUaf8PVqfxPINrcBLkcOg0+xFZSX3uka6Vl6NeO7KUYXw==
 
 mapbox-gl@^1.13.0:
   version "1.13.3"
