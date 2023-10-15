@@ -1,4 +1,4 @@
-FROM node:14.2
+FROM node:20.8
 
 RUN \
     apt-get update \
