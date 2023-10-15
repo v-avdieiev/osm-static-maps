@@ -47,7 +47,7 @@ osmsm serve
 
 Or you can use docker-compose
 ```bash
-git clone git@github.com:jperelli/osm-static-maps.git
+git clone git@github.com:v-avdieiev/osm-static-maps.git
 cd osm-static-maps
 docker-compose up
 ```
