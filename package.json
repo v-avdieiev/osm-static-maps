@@ -41,6 +41,6 @@
   },
   "devDependencies": {
     "nodemon": "3.0.1",
-    "puppeteer": "^21.3.8"
+    "puppeteer": "^22.2.0"
   }
 }
